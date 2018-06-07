@@ -14,7 +14,7 @@
     "firebase-admin": "^5.5.0",
     "js-yaml": "^3.10.0",
     "node-fetch": "^1.7.3",
-    "restify": "^6.3.2",
+    "restify": "^7.2.1",
     "yargs": "^10.0.3"
   },
   "devDependencies": {
