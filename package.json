@@ -9,7 +9,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "bunyan": "^1.8.12",
+    "bunyan": "^1.8.13",
     "bunyan-format": "^0.2.1",
     "firebase-admin": "^5.5.0",
     "js-yaml": "^3.10.0",
